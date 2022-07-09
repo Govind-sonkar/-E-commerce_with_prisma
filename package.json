@@ -1,0 +1,33 @@
+{
+  "name": "mini_e_commerce_websites_with_prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praveen2173/MINI_E_commerce_websites_with_prisma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Praveen2173/MINI_E_commerce_websites_with_prisma/issues"
+  },
+  "homepage": "https://github.com/Praveen2173/MINI_E_commerce_websites_with_prisma#readme",
+  "dependencies": {
+    "@prisma/client": "^4.0.0",
+    "cloudinary": "^1.30.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "prisma": "^4.0.0"
+  }
+}
